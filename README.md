@@ -8,8 +8,8 @@ We'll use the following modules and concepts in this project:
 •	Tkinter is a standard GUI library for Python using which we can build desktop apps. This is the base of our project, and we'll use it to create the User Interface of the application.
 
 
-                                              •	Random module implements pseudo-random number generators for various distributions. This module will help us shuffle the options for the questions.
+ •	Random module implements pseudo-random number generators for various distributions. This module will help us shuffle the options for the questions.
 
 
 
-                                               •	Python Classes are a blueprint for creating objects. Objects are real-world entities. During the entire project development, we'll be separating our different functionalities into different classes and methods.
+ •	Python Classes are a blueprint for creating objects. Objects are real-world entities. During the entire project development, we'll be separating our different functionalities into different classes and methods.
