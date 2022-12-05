@@ -3,6 +3,10 @@
 The Python Quiz is written in python programming language, This Simple Quiz On Python Programming is a simple project for testing one’s knowledge power in the given topic examination.
 A project Quiz In Python contains only the user side. The user must log in or sign up first to start the Quiz On Python. Also, there is a time duration set for solving the questions. The user should solve the questions before time is up.
 
+
+
+![](Untitled video - Made with Clipchamp.gif)
+
 We'll use the following modules and concepts in this project:
 
 •	Tkinter is a standard GUI library for Python using which we can build desktop apps. This is the base of our project, and we'll use it to create the User Interface of the application.
