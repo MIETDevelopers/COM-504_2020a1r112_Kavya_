@@ -5,7 +5,6 @@ A project Quiz In Python contains only the user side. The user must log in or si
 
 
 
-![](Untitled video - Made with Clipchamp.gif)
 
 We'll use the following modules and concepts in this project:
 
